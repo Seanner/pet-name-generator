@@ -1,0 +1,5 @@
+#!/bin/bash
+for i in `seq 5`
+do
+	./Artifact $1
+done | cat -n

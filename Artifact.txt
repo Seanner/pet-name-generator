@@ -1,0 +1,399 @@
+x,Adorable
+f,Alliebear
+x,Amazing
+x,Angel
+x,Angel Eyes
+x,Angel Face
+x,Angel Heart
+x,Angel of Mine
+x,Apple of My Eye
+x,Babe
+x,Babes
+m,Baboo
+x,Babushka
+x,Baby
+x,Baby Angel
+x,Baby Bear
+m,Baby Boo
+m,Baby Boy
+m,Baby-Bugga-Boo
+x,Baby Cakes
+x,Baby Doll
+x,Baby Face
+f,Baby Girl
+x,Baby Kins
+x,Baby Love
+f,Bambi
+x,Beany
+m,Bear
+f,Beautiful
+x,Bee's Knees
+x,Better Half
+x,Big
+m,Big Boy
+m,Big Daddy
+f,Bitsy
+f,Blossom
+f,Blossom Butt
+x,Bon-bon
+m,Boo
+m,Boo Bear
+m,Boo Boo
+m,Boogabear
+m,Boy
+x,Browneyes
+m,Bubbies
+m,Bubby
+x,Buddy
+x,Bumpa
+x,Bumper Butt
+f,Bumpkin
+f,Bunny
+f,Bun Butt
+f,Bunbuns
+m,Buster
+f,Butter Babe
+x,Buttercup
+x,Butterfly
+x,Button
+x,Cakes
+x,Candy
+x,Captain
+m,Casanova
+m,Champ
+x,Charming
+m,Cheeky Chimp
+m,Cheeky Monkey
+x,Cheese Ball
+x,Cherry
+x,Cherub
+f,Chick
+f,Chicken
+x,Chunky Bunny
+x,Chunky Monkey
+x,Cinnamon
+x,Cookie
+x,Cookie Monster
+m,Cowboy
+f,Cowgirl
+x,Cuddlebug
+x,Cuddle Bunny
+x,Cuddle Cakes
+x,Cuddle Muffin
+x,Cuddles
+x,Cuddly
+x,Cuddly-Wuddly
+x,Cupcake
+x,Cuteness
+x,Cutesy Pie
+x,Cutie
+x,Cutie Head
+x,Cutie Patootie
+x,Cutie Pie
+x,Cutie Pootie
+m,Daddy Mack
+f,Daisy
+x,Darlin
+x,Darling
+x,Darling o' Mine
+x,Dashing
+x,Dear
+x,Dearest
+x,Dearestone
+x,Dear Heart
+x,Dearie
+x,Dewdrop
+x,Diamond
+x,Doll
+x,Doll Baby
+x,Doll Face
+x,Doobie
+x,Doodle Bug
+x,Dork
+x,Dove
+x,Dream Boat
+f,Dream Girl
+x,Duckling
+x,Ducky
+x,Dummy
+x,Dumpling
+x,Egghead
+f,Ever Girl
+m,Ever Guy
+x,Everything
+x,Eyecandy
+x,Flame
+x,Flower
+x,Flower Child
+x,Fluffer-Nutter
+x,Frou-Frou
+x,Fruit Cake
+x,Fruit Loop
+x,Funny Hunny
+x,Gangsta Baby
+x,Georgia Peach
+x,Giggles
+f,Gigi
+f,Girlfriend
+x,Golden
+x,Goldie
+x,Goobers
+x,Goofy
+x,Gorgeous
+x,Gum Drop
+f,Grrl
+m,Guy
+m,Handsome
+m,Handsome Baby Boo
+x,Heart Throb
+m,Hero
+x,Hon'
+x,Honey Bun
+x,Honey Bunch
+x,Honey Bunches of Oats
+x,Honey Bunny
+x,Honey Cakes
+x,Honey Pants
+x,Hot Lips
+f,Hot Mama
+x,Hotness
+x,Hot Pants
+x,Hot Stuff
+x,Hottie
+x,Huggalump
+x,Huggy Bear
+x,Hun
+x,Hun Bun
+m,Hunk
+m,Hunky
+x,Hunny
+x,Hunny Pot
+f,Indian Princess
+m,Indian Warrior
+x,Jelly Bean
+x,Joy
+x,Jujube
+f,Juliet
+x,Kiddo
+m,Killer
+m,King
+x,Kissy Face
+x,Kit Kat
+x,Kitten
+x,Kitty
+m,Knight In Shining Armor
+x,Knockout
+m,Ladies Man
+m,Lady Killer
+f,Lady Love
+x,Lala
+x,Lamb
+x,Lambchop
+x,Lambkin
+x,Little
+x,Little Dove
+x,Looker
+x,Love
+x,Love Boodle
+x,Love Bug
+x,Love Face
+x,Lovely
+x,Love Muffin
+x,Lover
+m,Lover Boy
+f,Lover Girl
+x,Lover Pie
+x,Lovey Dovey
+x,Loveylove
+x,Lovie
+x,Lubber
+x,Lumlums
+x,Luv
+x,Luuuuve
+x,Luv Puppies
+f,Magic Princess
+x,Main Squeeze
+f,Mama
+f,Mamacita
+f,Mami
+m,Marshmallow Man
+m,McDreamy
+m,McSteamy
+m,Mister Cutie
+x,Monkey
+x,Monkey Buns
+x,Monkey Butt
+x,Mookie-Pookie Bear
+x,Mooky
+x,Muffin
+x,Muffinhead
+x,Muffy
+x,Muggles
+x,Muncie
+x,Munchkin
+x,Muppet
+x,My All
+x,My Beloved
+x,My Beautiful Beloved
+m,My Boo
+x,My Dear
+x,My Everything
+m,My King
+x,My Love
+x,My One and Only
+f,My Queen
+x,My Special Star
+m,My Sweet BoY
+x,My World
+x,Num Nums
+f,Old Lady
+m,Old Man
+x,Other Half
+x,Pancake
+x,Pandabear
+m,Papi
+m,Papito
+x,Paradise
+x,PB&J
+x,Peach
+x,Peaches n' Creme
+x,Peachy Pie
+x,Peanut
+x,Perfect
+x,Pet
+x,Petal
+x,Pickle Head
+x,Pickle Pie
+x,Pineapple Chunk
+x,Pinky
+x,Pinup
+f,Pinup Girl
+m,Pooh
+m,Pooh Bear
+x,Pooka
+x,Pookie
+x,Pooky Pooky
+x,Poopie
+x,Poopsie
+x,Pop Tart
+x,Pork Chop
+x,Precious
+f,Pretty Girl
+f,Pretty Princess
+m,Prince
+m,Prince Charming
+f,Princess
+x,Puddin' Head
+x,Pudding
+x,Pudding Pop
+x,Punk
+x,Punkin'
+x,Punkin' butt
+x,Puppy
+f,Pussy Cat
+f,Queen
+f,Queenie
+m,Romeo
+m,Roo Roo
+x,Rose
+x,Rosie
+x,Rubber Ducky
+x,Rum-rum
+x,Sailor
+x,Schmooooky Pookie Pooo
+x,Schmoopy
+x,Sexy
+m,Sexy Dork
+f,Sexy Mama
+x,Sexyness
+x,Shmoopie
+x,Shmoops
+x,Shmoopsie Poo
+x,Shoogie Woogie
+x,Short Cake
+x,Shorty
+m,Shy Guy
+x,Silly Goose
+m,Simba
+f,Sleeping Beauty
+x,Slick
+f,Slick Chick
+x,Smiles
+x,Smiley
+x,Smoochie
+x,Snicker Doodle
+x,Snoogypuss
+x,Snookums
+x,Snuggems
+x,Snuggle Bunny
+x,Snuggles
+x,Snuggley Bear
+x,Snuka Bear
+x,Soda Pop
+x,Soldier
+x,Soul Mate
+x,Spark
+x,Sparkles
+x,Sparky
+x,Sport
+x,Spunky
+x,Star
+x,Stinky
+m,Stud
+m,Studley
+m,Stud Monkey
+m,Stud Muffin
+x,Sugah Boogah
+x,Sugams
+x,Suga'pie Honey Bun
+x,Sugar
+x,Sugar Britches
+m,Sugar Daddy
+x,Sugar Lips
+f,Sugar Mama
+x,Sugar Muffin
+x,Sugar Pie
+x,Sugar Plum
+x,Sugar Puff
+x,Sugar Puss
+x,Sugar Smacks
+x,Sun Beam
+x,Sunny
+x,Sunshine
+m,Superman
+x,Superstar
+m,Super Stud
+f,Super Woman
+x,Sweet Cheeks
+x,Sweetheart
+x,Sweetie
+x,Sweetiepie Facecake
+x,Sweetkins
+x,Sweetness
+x,Sweet Pear Half In Your Own Heavy Syrup
+x,Sweet Potato
+x,Sweets
+x,Sweetsie
+x,Sweetstuff
+x,Sweetthang
+x,Sweetum
+x,Sweety
+m,Tarzan
+x,Tator-Tot
+x,Teady Bear
+x,Teardrop
+m,Tiger
+x,Tiger Toes
+x,Tinkerbell
+x,Toots
+x,Tootsie
+x,Tootsie Wootsy
+x,Treasure
+x,Tum-Tums
+x,Twinkle
+x,Twinkle Toes
+m,Uncle Upright
+x,Winky Dink
+x,Wonderful
+x,Yummers
+x,Zany
